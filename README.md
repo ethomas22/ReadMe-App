@@ -1,3 +1,3 @@
 # ReadMe-App
 
-## Descroption
+## Description
