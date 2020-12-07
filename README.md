@@ -5,8 +5,9 @@
 <br> 
 ### Click below for video demo!
 
-   Click [Here](<iframe width="560" height="315" src="https://www.youtube.com/embed/ODCSS54KEoE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>.
-   
+Click [Here](https://www.youtube.com/watch?v=ODCSS54KEoE). 
+
+<>img src="assets/screenshot.png" /
 
 ### Here is a link to the test ReadMe app I have created in the demo video
 [My Test ReadMe](https://gist.github.com/ethomas22/572f29c28adf1872791582b469cfd435)
