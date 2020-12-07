@@ -21,6 +21,12 @@
    MIT
    
    [![Demonstration Video](assets/screenshot.png)](assets/ReadMe.mov)
+   
+   ## My GitHub and LinkdIn
+   
+ [My GitHub](https://ethomas22.github.io)
+<br>
+[LinkedIn](https://www.linkedin.com/in/emily-t-508ab7100/)
 
    
    
