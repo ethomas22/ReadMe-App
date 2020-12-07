@@ -4,8 +4,9 @@
 <br>
 <br> 
 ### Click below for video demo!
-<br>
+
    [![Demonstration Video](assets/screenshot.png)](assets/ReadMe.mov)
+   
 <br> 
 ### Here is a link to the test ReadMe app I have created in the demo video
 [My Test ReadMe](https://gist.github.com/ethomas22/572f29c28adf1872791582b469cfd435)
