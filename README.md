@@ -5,7 +5,7 @@
 <br> 
 ### Click below for video demo!
 
-   [![Demonstration Video](assets/screenshot.png)](assets/ReadMe.mov)
+   [[![Watch the video](assets/screenshot.png)](assets/ReadMe.mov)
    
 
 ### Here is a link to the test ReadMe app I have created in the demo video
