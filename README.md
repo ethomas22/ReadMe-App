@@ -5,7 +5,7 @@
 <br> 
 ### Click below for video demo!
 
-   [[![Watch the video](assets/screenshot.png)](<iframe width="560" height="315" src="https://www.youtube.com/embed/ODCSS54KEoE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>)
+   Click [Here](<iframe width="560" height="315" src="https://www.youtube.com/embed/ODCSS54KEoE" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>.
    
 
 ### Here is a link to the test ReadMe app I have created in the demo video
